@@ -1,0 +1,37 @@
+﻿Sum of region_id,region_name,state_id,state_name,Strike Rate (%)
+2,Central Region,7,Chhattisgarh,0
+2,Central Region,19,Madhya Pradesh,0
+2,Central Region,34,Uttar Pradesh,0
+2,Central Region,35,Uttarakhand,0
+3,Eastern Region,5,Bihar,6.968641114982578
+3,Eastern Region,14,Jharkhand,0
+3,Eastern Region,26,Odisha,0
+3,Eastern Region,36,West Bengal,0
+6,North Eastern Region,3,Arunachal Pradesh,0.9302325581395349
+6,North Eastern Region,4,Assam,1.235657546337158
+6,North Eastern Region,21,Manipur,0
+6,North Eastern Region,22,Meghalaya,0
+6,North Eastern Region,23,Mizoram,0
+6,North Eastern Region,25,Nagaland,0
+6,North Eastern Region,30,Sikkim,0
+6,North Eastern Region,33,Tripura,0
+1,Northern Region,6,Chandigarh,0
+1,Northern Region,11,Haryana,0
+1,Northern Region,12,Himachal Pradesh,0
+1,Northern Region,13,Jammu and Kashmir,0
+1,Northern Region,17,Ladakh,0
+1,Northern Region,24,NCT OF Delhi,0
+1,Northern Region,28,Punjab,0
+1,Northern Region,29,Rajasthan,0
+5,Southern Region,1,Andaman & Nicobar Islands,0.21551724137931033
+5,Southern Region,2,Andhra Pradesh,0.38367096378146104
+5,Southern Region,15,Karnataka,0
+5,Southern Region,16,Kerala,0
+5,Southern Region,18,Lakshadweep,0
+5,Southern Region,27,Puducherry,0
+5,Southern Region,31,Tamil Nadu,0
+5,Southern Region,32,Telangana,0
+4,Western Region,8,Dadra & Nagar Haveli and Daman & Diu,0
+4,Western Region,9,Goa,0
+4,Western Region,10,Gujarat,0
+4,Western Region,20,Maharashtra,0

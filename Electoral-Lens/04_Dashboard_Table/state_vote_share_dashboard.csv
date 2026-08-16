@@ -1,0 +1,108 @@
+state_id,region_id,state_name,region_name,alliance_name,alliance_votes,state_total_votes,alliance_vote_share,state_vote_share
+1,5,Andaman & Nicobar Islands,Southern Region,INDIA,84057.0,202514.0,41.51,0.03
+1,5,Andaman & Nicobar Islands,Southern Region,NDA,103350.0,202514.0,51.03,0.03
+1,5,Andaman & Nicobar Islands,Southern Region,Others,15107.0,202514.0,7.46,0.03
+2,5,Andhra Pradesh,Southern Region,INDIA,1065653.0,33729342.0,3.16,5.23
+2,5,Andhra Pradesh,Southern Region,NDA,18038560.0,33729342.0,53.48,5.23
+2,5,Andhra Pradesh,Southern Region,Others,14625129.0,33729342.0,43.36,5.23
+3,6,Arunachal Pradesh,North Eastern Region,INDIA,219839.0,723247.0,30.4,0.11
+3,6,Arunachal Pradesh,North Eastern Region,NDA,350998.0,723247.0,48.53,0.11
+3,6,Arunachal Pradesh,North Eastern Region,Others,152410.0,723247.0,21.07,0.11
+4,6,Assam,North Eastern Region,INDIA,7871685.0,20059870.0,39.24,3.11
+4,6,Assam,North Eastern Region,NDA,10088693.0,20059870.0,50.29,3.11
+4,6,Assam,North Eastern Region,Others,2099492.0,20059870.0,10.47,3.11
+5,3,Bihar,Eastern Region,INDIA,15868120.0,43448949.0,36.52,6.73
+5,3,Bihar,Eastern Region,NDA,20513015.0,43448949.0,47.21,6.73
+5,3,Bihar,Eastern Region,Others,7067814.0,43448949.0,16.27,6.73
+6,1,Chandigarh,Northern Region,INDIA,216657.0,449275.0,48.22,0.07
+6,1,Chandigarh,Northern Region,NDA,214153.0,449275.0,47.67,0.07
+6,1,Chandigarh,Northern Region,Others,18465.0,449275.0,4.11,0.07
+7,2,Chhattisgarh,Central Region,INDIA,6222048.0,15061348.0,41.31,2.33
+7,2,Chhattisgarh,Central Region,NDA,7930096.0,15061348.0,52.65,2.33
+7,2,Chhattisgarh,Central Region,Others,909204.0,15061348.0,6.04,2.33
+8,4,Dadra & Nagar Haveli and Daman & Diu,Western Region,INDIA,84945.0,297998.0,28.51,0.05
+8,4,Dadra & Nagar Haveli and Daman & Diu,Western Region,NDA,157372.0,297998.0,52.81,0.05
+8,4,Dadra & Nagar Haveli and Daman & Diu,Western Region,Others,55681.0,297998.0,18.69,0.05
+9,4,Goa,Western Region,INDIA,359147.0,906538.0,39.62,0.14
+9,4,Goa,Western Region,NDA,461627.0,906538.0,50.92,0.14
+9,4,Goa,Western Region,Others,85764.0,906538.0,9.46,0.14
+10,4,Gujarat,Western Region,INDIA,9908392.0,29115599.0,34.03,4.51
+10,4,Gujarat,Western Region,NDA,17989950.0,29115599.0,61.79,4.51
+10,4,Gujarat,Western Region,Others,1217257.0,29115599.0,4.18,4.51
+11,1,Haryana,Northern Region,INDIA,6245243.0,13055572.0,47.84,2.02
+11,1,Haryana,Northern Region,NDA,6019165.0,13055572.0,46.1,2.02
+11,1,Haryana,Northern Region,Others,791164.0,13055572.0,6.06,2.02
+12,1,Himachal Pradesh,Northern Region,INDIA,1696173.0,4069906.0,41.68,0.63
+12,1,Himachal Pradesh,Northern Region,NDA,2296631.0,4069906.0,56.43,0.63
+12,1,Himachal Pradesh,Northern Region,Others,77102.0,4069906.0,1.89,0.63
+13,1,Jammu and Kashmir,Northern Region,INDIA,2145834.0,5151193.0,41.66,0.8
+13,1,Jammu and Kashmir,Northern Region,NDA,1258664.0,5151193.0,24.43,0.8
+13,1,Jammu and Kashmir,Northern Region,Others,1746695.0,5151193.0,33.91,0.8
+14,3,Jharkhand,Eastern Region,INDIA,6831767.0,17241982.0,39.62,2.67
+14,3,Jharkhand,Eastern Region,NDA,8133129.0,17241982.0,47.17,2.67
+14,3,Jharkhand,Eastern Region,Others,2277086.0,17241982.0,13.21,2.67
+15,5,Karnataka,Southern Region,INDIA,17612227.0,38793617.0,45.4,6.01
+15,5,Karnataka,Southern Region,NDA,20052962.0,38793617.0,51.69,6.01
+15,5,Karnataka,Southern Region,Others,1128428.0,38793617.0,2.91,6.01
+16,5,Kerala,Southern Region,INDIA,15685630.0,19980436.0,78.5,3.1
+16,5,Kerala,Southern Region,NDA,3837003.0,19980436.0,19.2,3.1
+16,5,Kerala,Southern Region,Others,457803.0,19980436.0,2.29,3.1
+17,1,Ladakh,Northern Region,INDIA,37397.0,135524.0,27.59,0.02
+17,1,Ladakh,Northern Region,NDA,31956.0,135524.0,23.58,0.02
+17,1,Ladakh,Northern Region,Others,66171.0,135524.0,48.83,0.02
+18,5,Lakshadweep,Southern Region,INDIA,48805.0,49200.0,99.2,0.01
+18,5,Lakshadweep,Southern Region,NDA,201.0,49200.0,0.41,0.01
+18,5,Lakshadweep,Southern Region,Others,194.0,49200.0,0.39,0.01
+19,2,Madhya Pradesh,Central Region,INDIA,12449038.0,37940251.0,32.81,5.88
+19,2,Madhya Pradesh,Central Region,NDA,22490851.0,37940251.0,59.28,5.88
+19,2,Madhya Pradesh,Central Region,Others,3000362.0,37940251.0,7.91,5.88
+20,4,Maharashtra,Western Region,INDIA,25162105.0,57179133.0,44.01,8.86
+20,4,Maharashtra,Western Region,NDA,24429766.0,57179133.0,42.72,8.86
+20,4,Maharashtra,Western Region,Others,7587262.0,57179133.0,13.27,8.86
+21,6,Manipur,North Eastern Region,INDIA,758971.0,1593632.0,47.63,0.25
+21,6,Manipur,North Eastern Region,NDA,699392.0,1593632.0,43.89,0.25
+21,6,Manipur,North Eastern Region,Others,135269.0,1593632.0,8.49,0.25
+22,6,Meghalaya,North Eastern Region,INDIA,631796.0,1711967.0,36.9,0.27
+22,6,Meghalaya,North Eastern Region,NDA,459729.0,1711967.0,26.85,0.27
+22,6,Meghalaya,North Eastern Region,Others,620442.0,1711967.0,36.24,0.27
+23,6,Mizoram,North Eastern Region,INDIA,98595.0,491336.0,20.07,0.08
+23,6,Mizoram,North Eastern Region,NDA,33533.0,491336.0,6.82,0.08
+23,6,Mizoram,North Eastern Region,Others,359208.0,491336.0,73.11,0.08
+25,6,Nagaland,North Eastern Region,INDIA,401951.0,760796.0,52.83,0.12
+25,6,Nagaland,North Eastern Region,Others,358845.0,760796.0,47.17,0.12
+24,1,NCT OF Delhi,Northern Region,INDIA,3846593.0,8938049.0,43.04,1.38
+24,1,NCT OF Delhi,Northern Region,NDA,4860924.0,8938049.0,54.38,1.38
+24,1,NCT OF Delhi,Northern Region,Others,230532.0,8938049.0,2.58,1.38
+26,3,Odisha,Eastern Region,INDIA,3317481.0,25129026.0,13.2,3.89
+26,3,Odisha,Eastern Region,NDA,11418327.0,25129026.0,45.44,3.89
+26,3,Odisha,Eastern Region,Others,10393218.0,25129026.0,41.36,3.89
+27,5,Puducherry,Southern Region,INDIA,426005.0,807940.0,52.73,0.13
+27,5,Puducherry,Southern Region,NDA,314654.0,807940.0,38.95,0.13
+27,5,Puducherry,Southern Region,Others,67281.0,807940.0,8.33,0.13
+28,1,Punjab,Northern Region,INDIA,7110459.0,13530923.0,52.55,2.1
+28,1,Punjab,Northern Region,NDA,2513995.0,13530923.0,18.58,2.1
+28,1,Punjab,Northern Region,Others,3906469.0,13530923.0,28.87,2.1
+29,1,Rajasthan,Northern Region,INDIA,14935687.0,33164877.0,45.03,5.14
+29,1,Rajasthan,Northern Region,NDA,16323452.0,33164877.0,49.22,5.14
+29,1,Rajasthan,Northern Region,Others,1905738.0,33164877.0,5.75,5.14
+30,6,Sikkim,North Eastern Region,INDIA,2241.0,384893.0,0.58,0.06
+30,6,Sikkim,North Eastern Region,NDA,183431.0,384893.0,47.66,0.06
+30,6,Sikkim,North Eastern Region,Others,199221.0,384893.0,51.76,0.06
+31,5,Tamil Nadu,Southern Region,INDIA,20486693.0,43674048.0,46.91,6.77
+31,5,Tamil Nadu,Southern Region,NDA,16528306.0,43674048.0,37.84,6.77
+31,5,Tamil Nadu,Southern Region,Others,6659049.0,43674048.0,15.25,6.77
+32,5,Telangana,Southern Region,INDIA,8860622.0,22008373.0,40.26,3.41
+32,5,Telangana,Southern Region,NDA,7746186.0,22008373.0,35.2,3.41
+32,5,Telangana,Southern Region,Others,5401565.0,22008373.0,24.54,3.41
+33,6,Tripura,North Eastern Region,INDIA,560391.0,2344154.0,23.91,0.36
+33,6,Tripura,North Eastern Region,NDA,1658788.0,2344154.0,70.76,0.36
+33,6,Tripura,North Eastern Region,Others,124975.0,2344154.0,5.33,0.36
+34,2,Uttar Pradesh,Central Region,INDIA,38389288.0,87911642.0,43.67,13.62
+34,2,Uttar Pradesh,Central Region,NDA,38405904.0,87911642.0,43.69,13.62
+34,2,Uttar Pradesh,Central Region,Others,11116450.0,87911642.0,12.65,13.62
+35,2,Uttarakhand,Central Region,INDIA,1581711.0,4836608.0,32.7,0.75
+35,2,Uttarakhand,Central Region,NDA,2750408.0,4836608.0,56.87,0.75
+35,2,Uttarakhand,Central Region,Others,504489.0,4836608.0,10.43,0.75
+36,3,West Bengal,Eastern Region,INDIA,34205083.0,60483687.0,56.55,9.37
+36,3,West Bengal,Eastern Region,NDA,23431081.0,60483687.0,38.74,9.37
+36,3,West Bengal,Eastern Region,Others,2847523.0,60483687.0,4.71,9.37
