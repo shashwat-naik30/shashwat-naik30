@@ -29,7 +29,7 @@ meaningful insights that can support better business decisions.
 
 ## 🚀 Featured Projects
 
-### 🇮🇳 Electoral Lens: Indian General Election 2024 Analysis
+### Electoral Lens: Indian General Election 2024 Analysis
 
 An end-to-end data analytics project focused on analyzing the
 **Indian General Election 2024** and extracting meaningful insights from
