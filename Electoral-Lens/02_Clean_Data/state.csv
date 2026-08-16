@@ -1,0 +1,37 @@
+state_id,state_name,region_id,region_name
+1,Andaman & Nicobar Islands,5,Southern Region
+2,Andhra Pradesh,5,Southern Region
+3,Arunachal Pradesh,6,North Eastern Region
+4,Assam,6,North Eastern Region
+5,Bihar,3,Eastern Region
+6,Chandigarh,1,Northern Region
+7,Chhattisgarh,2,Central Region
+8,Dadra & Nagar Haveli and Daman & Diu,4,Western Region
+9,Goa,4,Western Region
+10,Gujarat,4,Western Region
+11,Haryana,1,Northern Region
+12,Himachal Pradesh,1,Northern Region
+13,Jammu and Kashmir,1,Northern Region
+14,Jharkhand,3,Eastern Region
+15,Karnataka,5,Southern Region
+16,Kerala,5,Southern Region
+17,Ladakh,1,Northern Region
+18,Lakshadweep,5,Southern Region
+19,Madhya Pradesh,2,Central Region
+20,Maharashtra,4,Western Region
+21,Manipur,6,North Eastern Region
+22,Meghalaya,6,North Eastern Region
+23,Mizoram,6,North Eastern Region
+24,NCT OF Delhi,1,Northern Region
+25,Nagaland,6,North Eastern Region
+26,Odisha,3,Eastern Region
+27,Puducherry,5,Southern Region
+28,Punjab,1,Northern Region
+29,Rajasthan,1,Northern Region
+30,Sikkim,6,North Eastern Region
+31,Tamil Nadu,5,Southern Region
+32,Telangana,5,Southern Region
+33,Tripura,6,North Eastern Region
+34,Uttar Pradesh,2,Central Region
+35,Uttarakhand,2,Central Region
+36,West Bengal,3,Eastern Region

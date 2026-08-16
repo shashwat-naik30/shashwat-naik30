@@ -1,0 +1,747 @@
+party_id,party_name,alliance_name,alliance_id
+1,AARAKSHAN VIRODHI PARTY,Others,3
+2,AJSU Party,NDA,1
+3,Aadarsh Mithila Party,Others,3
+4,Aadarsh Sangram Party,Others,3
+5,Aadi Bharat Party,Others,3
+6,Aadim Samaj Party,Others,3
+7,Aam Aadmi Parivartan Party,Others,3
+8,Aam Aadmi Party,INDIA,2
+9,"Aam Janmat Party,",Others,3
+10,Aam Janshakti Party,Others,3
+11,Aam Janta Party (India),Others,3
+12,Aam Janta Party Rashtriya,Others,3
+13,Aam Lok Party United,Others,3
+14,Aanaithinthiya Jananayaka Pathukappu Kazhagam,Others,3
+15,Aap Sabki Apni Party,Others,3
+16,Aapka Gantantra Party,Others,3
+17,Aapki Apni Party (Peoples),Others,3
+18,Aapki Awaaz Party,Others,3
+19,Aas Punjab Party,Others,3
+20,Aawami Pichhada Party,Others,3
+21,Aazad Samaj Party (Kanshi Ram),Others,3
+22,Abhay Samaj Party,Others,3
+23,Abhinav Bharat Janseva Paksh,Others,3
+24,Abhinav Rajasthan Party,Others,3
+25,Abua Jharkhand Party,Others,3
+26,Adarsh Jankalyan Dal,Others,3
+27,"Adarsh Janta Party,",Others,3
+28,Adarsh Nyay Rakshak Party,Others,3
+29,Adarsh Samaj Party,Others,3
+30,Adarshwaadi Congress Party,Others,3
+31,Adim Bhartiya Dal,Others,3
+32,Ahimsa Socialist Party,Others,3
+33,Ahinsa Samaj Party,Others,3
+34,Aihra National Party,Others,3
+35,Aim Political Party,Others,3
+36,Akhand Bharat Janpriya Party,Others,3
+37,Akhand Bharat Samrajya Party,Others,3
+38,Akhand Bharat Swatantra Party,Others,3
+39,Akhil Bharat Hindu Mahasabha,Others,3
+40,Akhil Bharatiya Congress Dal (Ambedkar),Others,3
+41,Akhil Bharatiya Hind Kranti Party,Others,3
+42,Akhil Bharatiya Manavata Paksha,Others,3
+43,Akhil Bharatiya Muslim League (Secular),Others,3
+44,Akhil Bhartiya Aamjan Party,Others,3
+45,Akhil Bhartiya Aarakshit Samaj Party,Others,3
+46,Akhil Bhartiya Apna Dal,Others,3
+47,Akhil Bhartiya Hamara Samaj Party,Others,3
+48,Akhil Bhartiya Kisan Majdoor Party,Others,3
+49,Akhil Bhartiya Manavadhikar Vichar Manch Party,Others,3
+50,Akhil Bhartiya Parivar Party,Others,3
+51,Akhil Bhartiya Sarvjan Hit Party,Others,3
+52,Akhil Bhartiya Sudhar Party,Others,3
+53,Akhil Hind Forward Bloc (Krantikari),Others,3
+54,Akhila Vijaya Party,Others,3
+55,Al-Hind Party,Others,3
+56,All India Anna Dravida Munnetra Kazhagam,NDA,1
+57,All India Arya Mahasabha,Others,3
+58,All India Backward People Sunami Party,Others,3
+59,All India Forward Bloc,Others,3
+60,All India Jaihind Party,Others,3
+61,All India Jananayaka Makkal Kazhagam,Others,3
+62,All India Kisan Janatha party,Others,3
+63,All India Mahila Empowerment Party,Others,3
+64,All India Majlis-E-Inquilab-E-Millat,Others,3
+65,All India Majlis-E-Ittehadul Muslimeen,Others,3
+66,All India Mazdoor Party (Rangreta),Others,3
+67,All India National Raksha Sena,Others,3
+68,All India People Development Party,Others,3
+69,All India Secular Front,Others,3
+70,All India Trinamool Congress,INDIA,2
+71,All India Ulama Congress,Others,3
+72,All India United Democratic Front,Others,3
+73,All India Uzhavargal Uzhaippalargal Katchi,Others,3
+74,All India Youth Development Party,Others,3
+75,All Peoples Party,Others,3
+76,Alliance of Democratic Reforms Party,Others,3
+77,Aman Samaj Party,Others,3
+78,Ambedkar National Congress,Others,3
+79,Ambedkarist Republican Party,Others,3
+80,Ambedkarite Party of India,Others,3
+81,Amma Makkal Munnettra Kazagam,NDA,1
+82,Amra Bangalee,Others,3
+83,Anaithu India Makkal Katchi,Others,3
+84,Andaman Nicobar Democratic Congress,Others,3
+85,Andhra Pradesh Rashtra Samithi,Others,3
+86,Andhra Rastra Praja Samithi,Others,3
+87,Anjaan Aadmi Party,Others,3
+88,Anna MGR Dravida Makkal Kalgam,Others,3
+89,Anna Makkal Katchi,Others,3
+90,Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam,Others,3
+91,Anna YSR Congress Party,Others,3
+92,Anti Corruption Dynamic Party,Others,3
+93,Apna Dal (Kamerawadi),INDIA,2
+94,Apna Dal (Soneylal),NDA,1
+95,Apna Desh Party,Others,3
+96,Apna Haq Party,Others,3
+97,Apna Kisan Party,Others,3
+98,Apna Samaj Party,Others,3
+99,Apni Ekta Party,Others,3
+100,Apni Prajahit Party,Others,3
+101,Aravor Munnetra Kazhagam,Others,3
+102,Arunachal Democratic Party,Others,3
+103,Asankhya Samaj Party,Others,3
+104,Asom Gana Parishad,NDA,1
+105,Asom Jana Morcha,Others,3
+106,Assam Jatiya Parishad,Others,3
+107,Atulya Bharat Party,Others,3
+108,Autonomous State Demand Committee,Others,3
+109,Awami Samta Party,Others,3
+110,Azad Adhikar Sena,Others,3
+111,Azad Janata Party,Others,3
+112,Azad Party,Others,3
+113,Azad Samaj Party,Others,3
+114,Bahujan Awam Party,Others,3
+115,Bahujan Bharat Party,Others,3
+116,Bahujan Dravida Party,Others,3
+117,Bahujan Kranti Party (Marxwad-Ambedkarwad),Others,3
+118,Bahujan Maha Party,Others,3
+119,Bahujan Mukti Party,Others,3
+120,Bahujan National Party (Ambedkar),Others,3
+121,Bahujan Republican  Socialist Party,Others,3
+122,Bahujan Samaj Party,Others,3
+123,Bahujan Samaj Party  (Ambedkar),Others,3
+124,Bahujan Shoshit Samaj Sangharsh Samta Party,Others,3
+125,Bahujan Vikas Aaghadi,Others,3
+126,Bahujana Left Party,Others,3
+127,Bajjikanchal Vikas Party,Others,3
+128,Baliraja Party,Others,3
+129,Bangali Nabanirman Sena,Others,3
+130,Bengaluru Nava Nirmana Party,Others,3
+131,Bhagidari Party(P),Others,3
+132,Bharat Adivasi Party,INDIA,2
+133,Bharat Jago Janta Party,Others,3
+134,Bharat Jan Aadhar Party,Others,3
+135,Bharat Jan Jagran Dal,Others,3
+136,Bharat Jodo Party,Others,3
+137,Bharat Ki Lok Jimmedar Party,Others,3
+138,Bharat Lok Sewak Party,Others,3
+139,Bharat Mahaparivar Party,Others,3
+140,Bharat Nirman Party,Others,3
+141,Bharat Peoples Sena,Others,3
+142,Bharat Rakshak Party (Democratic),Others,3
+143,Bharat Rashtra Samithi,Others,3
+144,Bharath Dharma Jana Sena,NDA,1
+145,Bharatha Chaitanya Yuvajana Party,Others,3
+146,Bharatheeya Jawan Kisan Party,Others,3
+147,Bharathiya YuvaKula Dalam,Others,3
+148,Bharatiya Aam Awam Party,Others,3
+149,Bharatiya Asha Party,Others,3
+150,Bharatiya Bahujan Congress,Others,3
+151,Bharatiya Bahujan Samta Party,Others,3
+152,Bharatiya Bikash Parishad,Others,3
+153,Bharatiya Ekta Dal,Others,3
+154,Bharatiya Gana Parishad,Others,3
+155,Bharatiya Inqalab Party,Others,3
+156,Bharatiya Jan Jagriti Party,Others,3
+157,Bharatiya Jan Kranti Dal (Democratic),Others,3
+158,Bharatiya Jan Morcha Party,Others,3
+159,Bharatiya Janata Party,NDA,1
+160,Bharatiya Kisan Parivartan Party,Others,3
+161,Bharatiya Liberal Party,Others,3
+162,Bharatiya Lokshakti Party,Others,3
+163,Bharatiya Lokvikas Party,Others,3
+164,Bharatiya Majdoor Janta Party,Others,3
+165,Bharatiya Momin Front,Others,3
+166,Bharatiya Mulnivasi Aazad Party,Others,3
+167,Bharatiya Nagrik Party,Others,3
+168,Bharatiya National Janata Dal,Others,3
+169,Bharatiya Nyay-Adhikar Raksha Party,Others,3
+170,Bharatiya Praja Aikyata Party,Others,3
+171,Bharatiya Praja Surajya Paksha,Others,3
+172,Bharatiya Prajagala Kalyana Paksha,Others,3
+173,Bharatiya Rashtriya Morcha,Others,3
+174,Bharatiya Sampuran Krantikari Party,Others,3
+175,Bharatiya Yuva Jan Ekta Party,Others,3
+176,Bharatrashtra Democratic Party,Others,3
+177,Bhartiya Asmita Party,Others,3
+178,Bhartiya Awam Party (Rastriya),Others,3
+179,Bhartiya Azad Sena,Others,3
+180,Bhartiya Dalit Party,Others,3
+181,Bhartiya Gandhiwadi Party,Others,3
+182,Bhartiya Garib Vikas Kalyan Party,Others,3
+183,Bhartiya Jan Adhikar Party,Others,3
+184,Bhartiya Jan Nayak Party,Others,3
+185,Bhartiya Jan Parishad,Others,3
+186,Bhartiya Jan Samman Party,Others,3
+187,Bhartiya Jan Samrat Party,Others,3
+188,Bhartiya Jan Vikas Aaghadi,Others,3
+189,Bhartiya Janta Secular Party,Others,3
+190,Bhartiya Jantantra Morcha,Others,3
+191,Bhartiya Kranti Vir Party,Others,3
+192,Bhartiya Krishak Dal,Others,3
+193,Bhartiya Lok Chetna Party,Others,3
+194,Bhartiya Lok Nayak Party,Others,3
+195,Bhartiya Lokmat Rashtrwadi Party,Others,3
+196,Bhartiya Lokvani Party,Others,3
+197,Bhartiya Mahasangh Party,Others,3
+198,Bhartiya Manavta Party,Others,3
+199,Bhartiya Navjawan Sena (Paksha),Others,3
+200,Bhartiya Panchsheel Party,Others,3
+201,Bhartiya Panchyat Party,Others,3
+202,Bhartiya Party,Others,3
+203,Bhartiya Rashtriya Dal,Others,3
+204,Bhartiya Rashtriya Ekta Dal,Others,3
+205,Bhartiya Rashtriya Jansatta,Others,3
+206,Bhartiya Sabka Dal,Others,3
+207,Bhartiya Samajik Party,Others,3
+208,Bhartiya Sarthak Party,Others,3
+209,Bhartiya Sarvdharm Party,Others,3
+210,Bhartiya Shakti Chetna Party,Others,3
+211,Bhartiya Uday Nirman Party,Others,3
+212,Bhartiya Veer Dal,Others,3
+213,BhartiyaBahujanKranti Dal,Others,3
+214,Bheem Tribal Congress,Others,3
+215,Bhim Sena,Others,3
+216,Bhrashtachar Mukti Morcha,Others,3
+217,Bhumiputra United Party,Others,3
+218,Biju Janata Dal,Others,3
+219,Blue India Party,Others,3
+220,Bodoland Peoples Front,NDA,1
+221,Buland Bharat Party,Others,3
+222,Challengers Party,Others,3
+223,Chennai Youth Party,Others,3
+224,Chhatrapati Shivaji Bhartiya Garib Party,Others,3
+225,Chhattisgarh Vikas Ganga Rashtriya Party,Others,3
+226,Citizen Action Party-Sikkim,Others,3
+227,Communist Party of India,INDIA,2
+228,Communist Party of India  (Marxist),INDIA,2
+229,Communist Party of India  (Marxist-Leninist)  (Liberation),INDIA,2
+230,Corruption Abolition Party,Others,3
+231,Country Citizen Party,Others,3
+232,Dalit Kranti Dal,Others,3
+233,Dalit Soshit Pichhara Varg  Adhikar Dal,Others,3
+234,Dalita Bahujana Party,Others,3
+235,Delhi Janta Party,Others,3
+236,Democratic Bharatiya Samaj Party,Others,3
+237,Democratic Progressive Azad Party,Others,3
+238,Democratic Socialist Party of India,Others,3
+239,Desh Janhit Party,Others,3
+240,Desh Prem Party,Others,3
+241,Desiya Makkal Sakthi Katchi,Others,3
+242,Desiya Murpokku Dravida Kazhagam,Others,3
+243,Dhanwan Bharat Party,Others,3
+244,Dharma Samaj Party,Others,3
+245,Dharmarajya Paksha,Others,3
+246,Dhesiya Makkal Kazhagam,Others,3
+247,Dhoom Sena,Others,3
+248,Digvijaya Bharatha Party,Others,3
+249,Dr. Ambedkar People's Party,Others,3
+250,Dr. Bhimrao Ambedkar Dal,Others,3
+251,Dravida Munnetra Kazhagam,INDIA,2
+252,Ekam Sanatan Bharat Dal,Others,3
+253,Eklavya Samaj Party,Others,3
+254,Gana Suraksha Party,Others,3
+255,Ganasangam Party of India,Others,3
+256,Gareeb Aadmi Party,Others,3
+257,Garib Democratic Party,Others,3
+258,Garib Kalyan Party,Others,3
+259,Global Republican Party,Others,3
+260,Gondvana Gantantra Party,Others,3
+261,Gondwana Dandkaranya Party,Others,3
+262,Gorkha Rashtriya Congress,Others,3
+263,Gujarat Loktantra Party,Others,3
+264,Gujarat Sarva Samaj Party,Others,3
+265,Gunj Satya Ni Janata Party,Others,3
+266,Guruchand Sena Dal,Others,3
+267,Hamar Raj Party,Others,3
+268,Hamara Sahara Party,Others,3
+269,Hamara Sahi Vikalp Party,Others,3
+270,Haryana Jansena Party,Others,3
+271,Himachal Janta Party,Others,3
+272,Hindrashtra Sangh,Others,3
+273,Hindu Samaj Party,Others,3
+274,Hindustan Janta Party,Others,3
+275,Hindustan Janta Party Secular,Others,3
+276,Hindustan People's Party (Democratic),Others,3
+277,Hindustan Samaj Party,Others,3
+278,Hindustan Shakti Sena,Others,3
+279,Hindustan Vikas Dal,Others,3
+280,Hindustani Awam Morcha (Secular),NDA,1
+281,Hindvi Swarajyay Dal,Others,3
+282,Humanity for Peace Party,Others,3
+283,Independent,Others,3
+284,India Greens Party,Others,3
+285,India Manus Party,Others,3
+286,India Praja Bandhu Party,Others,3
+287,Indian Believers Party (IBP),Others,3
+288,Indian Labour Party (Ambedkar Phule),Others,3
+289,Indian Movement Party,Others,3
+290,Indian National Congress,INDIA,2
+291,Indian National League,Others,3
+292,Indian National Lok Dal,Others,3
+293,Indian National Socialistic Action Forces,Others,3
+294,Indian National Yuva Jana Party,Others,3
+295,Indian Peoples Adhikar Party,Others,3
+296,Indian Peoples Green Party,Others,3
+297,Indian Praja Congress,Others,3
+298,Indian Union Muslim League,INDIA,2
+299,Indian Unity Centre,Others,3
+300,Insaniyat Party,Others,3
+301,Jaathia Chethi Vruthula Ikya Vedika Party,Others,3
+302,Jagrook Janta Party,Others,3
+303,Jai Bharat National Party,Others,3
+304,Jai Hind Congress Party,Others,3
+305,Jai Hind National Party,Others,3
+306,Jai Hind Party,Others,3
+307,Jai Hindustan Party,Others,3
+308,Jai Maha Bharath Party,Others,3
+309,Jai Prakash Janata Dal,Others,3
+310,Jai Samta Party,Others,3
+311,Jai Sewalal Bahujan Vikas Party,Others,3
+312,Jai Swaraj Party,Others,3
+313,Jaibhim Rao Bharat Party,Others,3
+314,Jamat-E-Seratul Mustakim,Others,3
+315,Jammu & Kashmir National Conference,INDIA,2
+316,Jammu & Kashmir National Panthers Party (Bhim),Others,3
+317,Jammu & Kashmir People Conference,Others,3
+318,Jammu & Kashmir Peoples Democratic Party,Others,3
+319,Jammu and Kashmir Apni Party,Others,3
+320,Jammu and Kashmir Nationalist People's Front,Others,3
+321,Jan Janwadi Party,Others,3
+322,Jan Raajya Party,Others,3
+323,Jan Sangh Party,Others,3
+324,Jan Sewa Driver Party,Others,3
+325,Jan Sewak Kranti Party,Others,3
+326,Jan Shakti Dal,Others,3
+327,Jan Shakti Ekta Party,Others,3
+328,Jana Sahayaka Sakthi,Others,3
+329,Jana Shankhaaraavam Party,Others,3
+330,Janahitha Paksha,Others,3
+331,Janasena Party,NDA,1
+332,Janata Congress,Others,3
+333,Janata Dal  (Secular),NDA,1
+334,Janata Dal  (United),NDA,1
+335,Janhit Kisan Party,Others,3
+336,Janhit Sankalp Party,Others,3
+337,Janlok Vikas Party,Others,3
+338,Jannayak Janta Party,Others,3
+339,Janseva Gondwana Party,Others,3
+340,Janshakti Janta Dal,Others,3
+341,Janshakti Samta Party,Others,3
+342,Janta Darbar Party,Others,3
+343,Janta Kranti Party,Others,3
+344,Janta Kranti Party (Rashtravadi),Others,3
+345,Janta Raj Vikas Party,Others,3
+346,Janta Samajwadi Party (Vivek Raj),Others,3
+347,Janta Samta Party,Others,3
+348,Janta Shashan Party,Others,3
+349,Jantantra Awaj Party,Others,3
+350,Jatiya Jana Sena Party,Others,3
+351,Jay Vidarbha Party,Others,3
+352,Jebamani Janata,Others,3
+353,Jharkhand Mukti Morcha,INDIA,2
+354,Jharkhand Mukti Morcha  (Ulgulan),Others,3
+355,Jharkhand Party,Others,3
+356,Jharkhand People's Party,Others,3
+357,Jindabad Kranti Party,Others,3
+358,Justice Party,Others,3
+359,Kalinga Sena,Others,3
+360,Kamatapur People’s Party (United),Others,3
+361,Kamera Samaj Party,Others,3
+362,Kamgaar Kisan Party,Others,3
+363,Kannada  Paksha,Others,3
+364,Kannada Chalavali Vatal Paksha,Others,3
+365,Karnataka Jantha Paksha,Others,3
+366,Karnataka Karmikara Paksha,Others,3
+367,Karnataka Praja Party (RaithaParva),Others,3
+368,Karnataka Rashtra Samithi,Others,3
+369,Karpoori Janta Dal,Others,3
+370,Karunaadu Party,Others,3
+371,Karunada Sevakara Party,Others,3
+372,Kerala Congress,INDIA,2
+373,Kerala Congress  (M),INDIA,2
+374,Kisan Kranti Dal,Others,3
+375,Kisan Mazdoor Sangharsh Party,Others,3
+376,Kisan Vishwa Party,Others,3
+377,Kosal Janata Dal,Others,3
+378,Kranti Janshakti Party,Others,3
+379,Kranti Kari Jai Hind Sena,Others,3
+380,Krupaa Party,Others,3
+381,Kunbi Bahujan Sawrajya Party,Others,3
+382,Liberation Congress Party,Others,3
+383,Log Party,Others,3
+384,Lok Jan Sangharsh Party,Others,3
+385,Lok Janshakti Party(Ram Vilas),NDA,1
+386,Lok Samaj Party,Others,3
+387,Lok Sena Party,Others,3
+388,Lok Sewa Dal,Others,3
+389,Lok Swarajya Party,Others,3
+390,Lokhit Adhikar Party,Others,3
+391,Lokpriya Rashtrawadi Party,Others,3
+392,Lokrajya Janata Party,Others,3
+393,Lokshahi Ekta Party,Others,3
+394,Loktantra Congress Party,Others,3
+395,Loktantrik Janshakti Party,Others,3
+396,Loktantrik Janta Dal,Others,3
+397,Loktantrik Lok Rajyam Party,Others,3
+398,Loktantrik Samajik Nyay Party,Others,3
+399,Loktantrik Samajwadi Party,Others,3
+400,Maa Telangana Party,Others,3
+401,Madhya Pradesh Jan Vikas Party,Others,3
+402,Mahanwadi Party,Others,3
+403,Maharashtra Vikas Aghadi,Others,3
+404,Mahathma Makkal Munnetra Kazhakam,Others,3
+405,Majdoor Kisan Union Party,Others,3
+406,Majloom Samaj Party,Others,3
+407,Makkal Nala Kazhagam,Others,3
+408,Makkal Nalvaazhvuk Katchi,Others,3
+409,Malwa Congress,Others,3
+410,Mana Telangana Rashtra Samaikya Party,Others,3
+411,Manas Lokshakti Dal,Others,3
+412,Manav Kranti Party,Others,3
+413,Manav Samadhan Party,Others,3
+414,Manavtawadi Samaj Party,Others,3
+415,Mang Samaj Party,Others,3
+416,Manviya Bharat Party,Others,3
+417,Marumalarchi Dravida Munnetra Kazhagam,INDIA,2
+418,Marxist Communist Party of India (United),Others,3
+419,Marxist Leninist Party of India (Red Flag),Others,3
+420,Megh Desham Party,Others,3
+421,Mera Adhikaar Rashtriya Dal,Others,3
+422,Mera Bharat Mahan Party,Others,3
+423,Minorities Democratic Party,Others,3
+424,Mission All India Independent Justice Party,Others,3
+425,Mission Naya Digant Party,Others,3
+426,Mithilanchal Mukti Morcha,Others,3
+427,Mizo National Front,Others,3
+428,Mizoram People's Conference,Others,3
+429,Moolniwasi Samaj Party,Others,3
+430,Most Backward Classes Of India,Others,3
+431,Moulik Adhikar Party,Others,3
+432,Mulnibasi Party of India,Others,3
+433,Naadaalum Makkal Katchi,Others,3
+434,Naam Indiar Party,Others,3
+435,Naam Tamilar Katchi,Others,3
+436,Naari Nar Rakshak Party,Others,3
+437,Naba Bharata Nirmana Seva Party,Others,3
+438,Naga Peoples Front,NDA,1
+439,Naki Bharatiya Ekta Party,Others,3
+440,Nam India Naam Indiyar Katchi,Others,3
+441,National Apni Party,Others,3
+442,National Awami United Party,Others,3
+443,National Black Panther Party,Others,3
+444,National Future Party,Others,3
+445,National Jan Dal,Others,3
+446,National Janmandal Party,Others,3
+447,National Loktantrik Party,Others,3
+448,National Maha Sabha Party,Others,3
+449,National Nava Kranthi Party,Others,3
+450,National Party,Others,3
+451,National People's Party,NDA,1
+452,National Republic Party Of India,Others,3
+453,National World Leader Party,Others,3
+454,National Youth Party,Others,3
+455,Nationalist Congress Party,NDA,1
+456,Nationalist Congress Party – Sharadchandra Pawar,INDIA,2
+457,Nationalist Democratic Progressive Party,Others,3
+458,Nationalist Justice Party,Others,3
+459,Navabharath Sena,Others,3
+460,Navarang Congress Party,Others,3
+461,Navataram Party,Others,3
+462,Navodayam Party,Others,3
+463,Navsarjan Bharat Party,Others,3
+464,Navyug Pragatisheel Morcha,Others,3
+465,Neethi Nijayithi Party,Others,3
+466,Netaji Subhash Chander Bose Rashtriya Azad Party,Others,3
+467,New Generation People’s Party,Others,3
+468,New India Party,Others,3
+469,New India United Party,Others,3
+470,New Labour Party,Others,3
+471,New Rashtriya Samaj Party,Others,3
+472,None of the Above,Others,3
+473,North Bengal People’s Party,Others,3
+474,Nyaydharmsabha,Others,3
+475,Odisha Janata Party,Others,3
+476,Pachchasi Parivartan Samaj Party,Others,3
+477,Parcham Party of India,Others,3
+478,Parivartan Party of India,Others,3
+479,Parivartan Samaj Party,Others,3
+480,Party for Democratic Socialism,Others,3
+481,Paschimanchal Vikas Party,Others,3
+482,Pattali Makkal Katchi,NDA,1
+483,Peace Party,Others,3
+484,Pehchan People’s Party,Others,3
+485,People Protection Party,Others,3
+486,People's Party of India(secular),Others,3
+487,Peoples Party of India (Democratic),Others,3
+488,People’s Union Party,Others,3
+489,Pichhara Samaj Party United,Others,3
+490,Political Justice Party,Others,3
+491,Prabal Bharat Party,Others,3
+492,Prabuddha Republican Party,Others,3
+493,Prabuddhwadi Bahujan Morcha,Others,3
+494,Pragatisheel Magahi Samaj,Others,3
+495,Pragatisheel Manav Samaj Party,Others,3
+496,Pragatisheel Samaj Party,Others,3
+497,Prahar Janshakti Party,Others,3
+498,Praja Ektha Party,Others,3
+499,Praja Prasthanam Party,Others,3
+500,Praja Shanthi Party,Others,3
+501,Praja Velugu Party,Others,3
+502,Prajarajya Samithi,Others,3
+503,Prajatantra Aadhar Party,Others,3
+504,Prajavani  Party,Others,3
+505,Prithviraj Janshakti Party,Others,3
+506,"Proutist Bloc, India",Others,3
+507,Proutist Sarva Samaj,Others,3
+508,Public Adhikar Socialist Indian Party,Others,3
+509,Public Political Party,Others,3
+510,Punjab National Party,Others,3
+511,Punnagai Desam Party,Others,3
+512,Purvanchal Mahapanchayat,Others,3
+513,Puthiya Makkal Tamil Desam Katchi,Others,3
+514,Pyramid Party of India,Others,3
+515,Radical Party of India (Ambedkarist),Others,3
+516,Raita Bharat Party,Others,3
+517,Rajasthan Raj Party,Others,3
+518,Rani Chennamma Party,Others,3
+519,Rashtra Dharak Dal,Others,3
+520,Rashtra Nirman Party,Others,3
+521,Rashtra Samanya Praja Party,Others,3
+522,Rashtra Samarpan Party,Others,3
+523,Rashtra Sewa Dal,Others,3
+524,Rashtra Uday Party,Others,3
+525,Rashtravadi Bharat Party,Others,3
+526,Rashtravadi Loktantrik Party (India),Others,3
+527,Rashtrawadi Chetna Party,Others,3
+528,Rashtrawadi Janlok Party (Satya),Others,3
+529,Rashtriy Bahujan Party,Others,3
+530,Rashtriya Congress(J) Party,Others,3
+531,Rashtriya Devbhumi Party,Others,3
+532,Rashtriya Garib Dal,Others,3
+533,Rashtriya Gondvana Party,Others,3
+534,Rashtriya Hind Ekta Dal,Others,3
+535,Rashtriya Jan Awaz Party,Others,3
+536,Rashtriya Jan Jan Party,Others,3
+537,Rashtriya Jan Kalyan Party Secular,Others,3
+538,Rashtriya Jan Karmath Party,Others,3
+539,Rashtriya Jan Utkarsh Party,Others,3
+540,Rashtriya Janata Dal,INDIA,2
+541,Rashtriya Janhit Sangharsh Party,Others,3
+542,Rashtriya Jankranti Party,Others,3
+543,Rashtriya Janmanch (Secular),Others,3
+544,Rashtriya Janmorcha,Others,3
+545,Rashtriya Jansabha Party,Others,3
+546,Rashtriya Jansambhavna Party,Others,3
+547,Rashtriya Jansanchar Dal,Others,3
+548,Rashtriya Jansangharsh Swaraj Party,Others,3
+549,Rashtriya Jansena Party,Others,3
+550,Rashtriya Janshakti Party (Secular),Others,3
+551,Rashtriya Janshakti Party(Eklavya),Others,3
+552,Rashtriya Janshakti Samaj Party,Others,3
+553,Rashtriya Janta Party,Others,3
+554,Rashtriya Jantantrik Bharat Vikas Party,Others,3
+555,Rashtriya Janutthan Party,Others,3
+556,Rashtriya Jatigat Aarakshan Virodhi Party,Others,3
+557,Rashtriya Kisan Bahujan Party,Others,3
+558,Rashtriya Lok Dal,NDA,1
+559,Rashtriya Lok Morcha,NDA,1
+560,Rashtriya Lokswaraj Party,Others,3
+561,Rashtriya Loktantrik Party,INDIA,2
+562,Rashtriya Mahaswaraj Bhumi Party,Others,3
+563,Rashtriya Manav Party,Others,3
+564,Rashtriya Mangalam Party,Others,3
+565,Rashtriya Maratha Party,Others,3
+566,Rashtriya Mazdoor Ekta Party,Others,3
+567,Rashtriya Narayanwadi Vikas Party,Others,3
+568,Rashtriya Power Party,Others,3
+569,Rashtriya Praja Congress  (Secular),Others,3
+570,Rashtriya Rashtrawadi Party,Others,3
+571,Rashtriya Republican Party,Others,3
+572,Rashtriya Samaj Dal (R),Others,3
+573,Rashtriya Samaj Paksha,Others,3
+574,Rashtriya Samanta Dal,Others,3
+575,Rashtriya Samta Vikas Party,Others,3
+576,Rashtriya Sanatan Party,Others,3
+577,Rashtriya Sanskriti Party,Others,3
+578,Rashtriya Sant Sandesh Party,Others,3
+579,Rashtriya Sawarn Dal,Others,3
+580,Rashtriya Secular Majlis Party,Others,3
+581,Rashtriya Shoshit Samaj Party,Others,3
+582,Rashtriya Suraksha Party,Others,3
+583,Rashtriya Ulama Council,Others,3
+584,Rashtriya Uttarakhand Party,Others,3
+585,Rashtriya Vikalp Party,Others,3
+586,Rashtriya Vikas Party,Others,3
+587,Rastriya Atal Janta Party,Others,3
+588,Rayalaseema Rashtra Samithi,Others,3
+589,Republican Bahujan Sena,Others,3
+590,Republican Party of India,Others,3
+591,Republican Party of India  (Sivaraj),Others,3
+592,Republican Party of India (A),Others,3
+593,Republican Party of India (Athawale),NDA,1
+594,Republican Party of India (Karnataka),Others,3
+595,Republican Party of India (Social),Others,3
+596,Republican Party of India Bharatha,Others,3
+597,Republican Sena,Others,3
+598,Revolutionary Goans Party,Others,3
+599,Revolutionary Socialist Party,INDIA,2
+600,Right to Recall Party,Others,3
+601,Rishivadi Karm Sheel Young Parmarthi Party,Others,3
+602,Saath Sahakar Vikas Party,Others,3
+603,Sabhi Jan Party,Others,3
+604,Sabse Achchhi Party,Others,3
+605,Sacho Sach Party,Others,3
+606,Sainik Samaj Party,Others,3
+607,Sajag Samaj Party,Others,3
+608,Sakala Janula Party,Others,3
+609,Samaj Bhalai Morcha,Others,3
+610,Samaj Parivartan Party,Others,3
+611,Samaj Shakti Party,Others,3
+612,Samaj Vikas Kranti Party,Others,3
+613,Samajhdar Party,Others,3
+614,Samajik Sangharsh Party,Others,3
+615,Samajwadi Jan Parishad,Others,3
+616,Samajwadi Janata Party(Karnataka),Others,3
+617,Samajwadi Lok Parishad,Others,3
+618,Samajwadi Party,INDIA,2
+619,Saman Adhikar Party,Others,3
+620,Samaniya Makkal Nala Katchi,Others,3
+621,Samata Party,Others,3
+622,Samata Samadhan Party,Others,3
+623,Samnak Janta Party,Others,3
+624,Sampoorna Bharat Kranti Party,Others,3
+625,Samrat Mihir Bhoj Samaj Party,Others,3
+626,Samruddha Odisha,Others,3
+627,Samst Samaj Party,Others,3
+628,Samyak Party,Others,3
+629,Sanatan Sanskriti Raksha Dal,Others,3
+630,Sanjhi Virasat Party,Others,3
+631,Sankhyanupati Bhagidari Party,Others,3
+632,Sanman Rajkiya Paksha,Others,3
+633,Sanyogwadi Party,Others,3
+634,Sanyukt Bharat Paksh,Others,3
+635,Sanyukt Kisan Vikas Party,Others,3
+636,Sapaks Party,Others,3
+637,Sardar Patel Siddhant Party,Others,3
+638,Sardar Vallabhbhai Patel Party,Others,3
+639,Sarv Adi Dal,Others,3
+640,Sarv Samaj Party,Others,3
+641,Sarva Janata Party,Others,3
+642,Sarva Samaj Janata Party,Others,3
+643,Sarvar Party,Others,3
+644,Sarvjan Awaz Party,Others,3
+645,Sarvjan Lok Shakti Party,Others,3
+646,Sarvjan Samta Party,Others,3
+647,Sarvlokhit Samaj Party,Others,3
+648,Sathi Aur Aapka Faisala Party,Others,3
+649,Satya Bahumat Party,Others,3
+650,Satyawadi Rakshak Party,Others,3
+651,Secular Democratic Congress,Others,3
+652,Sehajdhari Sikh Party,Others,3
+653,Shakti Sena (Bharat Desh),Others,3
+654,Shiromani Akali Dal,Others,3
+655,Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann),Others,3
+656,Shiromani Lok Dal Party,Others,3
+657,Shiv Sena,NDA,1
+658,Shiv Sena (Uddhav Balasaheb Thackrey),INDIA,2
+659,Shoshit Samaj Dal,Others,3
+660,Sikkim Democratic Front,Others,3
+661,Sikkim Krantikari Morcha,NDA,1
+662,Sikkim Republican Party,Others,3
+663,Smart Indians Party,Others,3
+664,Social Democratic Party Of India,Others,3
+665,Social Justice Party of India,Others,3
+666,Socialist Party (India),Others,3
+667,Socialist Unity Centre Of India (COMMUNIST),Others,3
+668,Spashtwadi Jan Aadhar Party,Others,3
+669,Subhashwadi Bhartiya Samajwadi Party (Subhas Party),Others,3
+670,Suheldev Bharatiya Samaj Party,NDA,1
+671,Sunahara Bharat Party,Others,3
+672,Sunder Samaj Party,Others,3
+673,Super Power India Party,Others,3
+674,Supreme Zero Party of Bharat,Others,3
+675,Swabhimani Paksha,Others,3
+676,Swaraj Bhartiya Nyay Party,Others,3
+677,Swaraj Kranti Party,Others,3
+678,Swarajya Sena (Maharashtra),Others,3
+679,Swarajya Shakti Sena,Others,3
+680,Swatantra Jantaraj Party,Others,3
+681,Swatantra Kisan Party,Others,3
+682,Swatantrata Abhivyakti Party,Others,3
+683,Swayam Shashan Party,Others,3
+684,Tamil Maanila Congress  (Moopanar),NDA,1
+685,Tamil Manila Murpokku Dravida Kazhagam,Others,3
+686,Tamilaga Makkal Nala Katchi,Others,3
+687,Tamilaga Makkal Thannurimai Katchi,Others,3
+688,Tamilar Makkal Katchi,Others,3
+689,Tamilnadu Makkal Nalvazhvu Periyakkam,Others,3
+690,Tamizhaga Murpokku Makkal Katchi,Others,3
+691,Telangana Jaghir Party,Others,3
+692,Telangana Praja Shakthi Party,Others,3
+693,Telangana Prajaa Jeevana Rythu Party,Others,3
+694,Telangana Rajya Samithi,Others,3
+695,Telangana Rashtra Punahnirmana Samithi,Others,3
+696,Telangana Republican Party,Others,3
+697,Telangana Sakalajanula Party,Others,3
+698,Telugu Congress Party,Others,3
+699,Telugu Desam,NDA,1
+700,Telugu Nava Garjana Party,Others,3
+701,Telugu Rajadhikara Samiti Party,Others,3
+702,Thakkam Katchi,Others,3
+703,The Agrani Party,Others,3
+704,The National Road Map Party of India,Others,3
+705,Tipu Sultan Party,Others,3
+706,Twenty 20 Party,Others,3
+707,Ulzaipali Makkal Katchy,Others,3
+708,Ummeed Party of India,Others,3
+709,United Democratic Party,NDA,1
+710,"United People’s Party, Liberal",NDA,1
+711,United Republican Party of India,Others,3
+712,Utkal Samaj,Others,3
+713,Uttama Prajaakeeya Party,Others,3
+714,Uttar Pradesh Republican Party,Others,3
+715,Uttarakhand Kranti Dal,Others,3
+716,Uttarakhand Parivartan Party,Others,3
+717,Uttarakhand Samanta Party,Others,3
+718,Vanchit Bahujan  Aaghadi,Others,3
+719,Vanchitsamaj Insaaf Party,Others,3
+720,Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi,Others,3
+721,Vidarbha Rajya Aghadi,Others,3
+722,Vidhyarthula Rajakiya Party,Others,3
+723,Vidiyalai Thedum Indhiyargal Party,Others,3
+724,Viduthalai Chiruthaigal Katchi,INDIA,2
+725,Viduthalai Kalam Katchi,Others,3
+726,Vikas India Party,Others,3
+727,Vikas Insaf Party,Others,3
+728,Vikassheel Insaan Party,Others,3
+729,Viro Ke Vir Indian Party,Others,3
+730,Vishal Janta Party,Others,3
+731,Vishva Shakti Party,Others,3
+732,Vishwa Kalyan Rashtriya Manav Samaj Party,Others,3
+733,Voice of the People Party,Others,3
+734,Voters Independent Party,Others,3
+735,Voters Party  International,Others,3
+736,Wazib Adhikar Party,Others,3
+737,Welfare Party Of India,Others,3
+738,Young Star Empowerment Party,Others,3
+739,Youth India Peace Party,Others,3
+740,Yuga Thulasi Party,Others,3
+741,Yuva Bihar Sena,Others,3
+742,Yuva Krantikari Party,Others,3
+743,Yuva Taram Party,Others,3
+744,Yuva Vikas Party,Others,3
+745,Yuvajana Sramika Rythu Congress Party,Others,3
+746,Zoram People’s Movement,Others,3
